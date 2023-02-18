@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.title("A new beginning.")
+streamlit.title("A NEW BEGINNING.")
 
 
 streamlit.header("Journey starts from today.")
