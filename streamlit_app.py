@@ -1,11 +1,8 @@
 import streamlit
 
-streamlit.title("A NEW BEGINNING.")
+streamlit.title("NEW HEALTHIER DINER.")
 
-
-streamlit.header("Journey starts from today.")
-
-
-streamlit.text("Jordan Peterson")
-
-streamlit.text("Joe Rogan")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
